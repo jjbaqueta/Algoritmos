@@ -10,7 +10,7 @@
     <p>Os códigos neste repositório são apresentados por meio de notebooks. Um notebook permite a criação e compartilhamento de documentos que contêm ao mesmo tempo código interativo e textos explicativos. Os notebooks apresentados aqui podem ser baixados e executados no <a href="https://jupyter.org/">Jupyter Notebook</a>. Um tutorial de como acessar e instalar o Jupyter Notebook em sua máquina local pode ser encontrado <a href="https://medium.com/@pedrofullstack/introdu%C3%A7%C3%A3o-ao-jupyter-notebook-para-python-b2cf79cea31d#:~:text=Jupyter%20Notebook%20%C3%A9%20uma%20aplica%C3%A7%C3%A3o,c%C3%B3digo%20interativo%20e%20textos%20explicativos">aqui</a>.</p>
 <p>
     <h3>Exercícios de sala de aula</h3>
-    <p><a href="https://github.com/jjbaqueta/Algoritmos/blob/main/hello_world.ipynb">hello_world.ipynb</a></p>
+    <p><a href="https://github.com/jjbaqueta/Algoritmos/blob/main/exercicios_sala_de_aula.ipynb">exercicios_sala_de_aula.ipynb</a></p>
     <h3>Listas de exercícios</h3>
     <p><a href="https://github.com/jjbaqueta/Algoritmos/blob/main/lista_estruturas_de_decisao.ipynb">lista_estruturas_de_decisao.ipynb</a></p>
 </p>
