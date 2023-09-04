@@ -13,6 +13,7 @@
     <p><a href="https://github.com/jjbaqueta/Algoritmos/blob/main/exercicios_sala_de_aula.ipynb">exercicios_sala_de_aula.ipynb</a></p>
     <h3>Listas de exercícios</h3>
     <p><a href="https://github.com/jjbaqueta/Algoritmos/blob/main/lista_estruturas_de_decisao.ipynb">lista_estruturas_de_decisao.ipynb</a></p>
+    <p><a href="https://github.com/jjbaqueta/Algoritmos/blob/main/lista_estruturas_de_repeticao.ipynb">lista_estruturas_de_repeticao.ipynb</a></p>
 </p>
 </div>
   <div id="bibliografia">
